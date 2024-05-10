@@ -14,6 +14,8 @@ function Footer() {
           <p className="text-sm">
             © GitHub Portfolio by <Link target="_blank" href="https://github.com/alvin-dennis/" className="text-primary-icon">ALVIN</Link>
           </p>
+          <a href="https://alvindennis.vercel.app/" className="flex items-center gap-2">
+          <button className="bg-primary-icon text-black py-2 px-4 rounded-md hover:bg-primary-icon-hover">Go Back Home</button></a>
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
