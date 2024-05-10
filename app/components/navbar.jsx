@@ -11,7 +11,7 @@ function Navbar() {
         <img src="/me.png" alt="logo" className="w-10 h-10" />
       </a>
           <Link
-            href="https://github.com/alvin-dennis/"
+            href="https://alvindennis.vercel.app/"
             className=" text-primary-icon text-4xl font-bold">
             ALVIN 
           </Link>
