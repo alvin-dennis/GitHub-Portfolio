@@ -1,20 +1,15 @@
 # GitHub Portfolio
-This project is a GitHub Portfolio that showcases your GitHub repositories and provides a live preview of your projects.
-
-
----
-
-# Demo :movie_camera:
-
-## View live preview [here](https://githubportfolio.vercel.app/)
-
----
+This project is a GitHub Portfolio that showcases my GitHub repositories and provides a live preview of my projects.
 
 
 
-## <br />
 
-# Getting Started :dart:
+# Demo 
+
+## View live preview [here](https://github-persona.vercel.app/)
+
+
+# Getting Started 
 
 ### Installation Guidelines
 
@@ -40,12 +35,11 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
 
 ### You can customize your user data in the `user-data` file to personalize the content displayed on your portfolio.
 
 
-# Tech Stack :package:
+# Tech Stack 
 
 - next
 - @next/third-parties
@@ -55,4 +49,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - sass
 - tailwindcss
 
----
+
