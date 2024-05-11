@@ -16,7 +16,7 @@ View live preview [here](https://github-persona.vercel.app/)
 ```
 git clone https://github.com/alvin-dennis/GitHub-portfolio.git
 
-cd github-portfolio
+cd GitHub-portfolio
 ```
 
 ```bash
