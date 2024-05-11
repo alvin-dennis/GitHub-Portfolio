@@ -4,9 +4,9 @@ This project is a GitHub Portfolio that showcases my GitHub repositories and pro
 
 
 
-# Demo 
+## Demo 
 
-## View live preview [here](https://github-persona.vercel.app/)
+View live preview [here](https://github-persona.vercel.app/)
 
 
 # Getting Started 
@@ -36,7 +36,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-### You can customize your user data in the `user-data` file to personalize the content displayed on your portfolio.
+You can customize your user data in the `user-data` file to personalize the content displayed on your portfolio.
 
 
 # Tech Stack 
