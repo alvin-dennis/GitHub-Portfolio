@@ -1,6 +1,6 @@
 {
   "name": "github-portfolio",
-  "description": "GitHub Profile og Alvin Dennis",
+  "description": "GitHub Profile of Alvin Dennis",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
